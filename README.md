@@ -5,9 +5,6 @@ by Kayla Harwell, Stephanie Galvan, and Cody Rivera
 This is a community garden management web app that targets Google Cloud's
 App Engine.
 
-* [Beta Website](https://beta26-step-2020.uc.r.appspot.com)
-* [Production Website](https://prod26-step-2020.uc.r.appspot.com)
-
 ## Build Instructions
 
 Before the build, execute this command in Cloud Shell to install
